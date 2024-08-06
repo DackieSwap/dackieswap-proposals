@@ -1,4 +1,7 @@
 # [DSP1.0] Proposal for Launching the DackieSwap DAO
+
+[← Home](../README.md)
+
 ```shell
 Proposal ID: DSP1.0
 Date: 2024/08/04
