@@ -36,7 +36,7 @@ attract more liquidity to X Layer**, leveraging Layer Zero technology for seamle
   > Current total higher than tokenomics because QueenDACKIE pools launched this month, will be adjusted again end of
   August)
 
-* **Farming Pools:**
+* **Farming Pools (Reward p. month):**
 
   | Chain           | Pools          | Type  | X  | Reward              | New Reward      |
   |-----------------|----------------|-------|----|---------------------|-----------------|
@@ -67,8 +67,8 @@ Launching the Yield Farming program with QUACK token rewards on X Layer chains w
 engage the X Layer community in the DackieSwap ecosystem. Your support and participation are essential for the success
 of this initiative.
 
-**For:** Approve the proposal to launch Yield Farming with QUACK token rewards on X Layer chains.  
-**Against:** Reject the proposal to launch Yield Farming with QUACK token rewards on X Layer chains.
+**For:** Approve the proposal.  
+**Against:** Reject the proposal.
 
 ---
 We welcome all your feedback and look forward to your support in making this initiative a success.
