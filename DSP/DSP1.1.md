@@ -41,12 +41,13 @@ attract more liquidity to X Layer**, leveraging Layer Zero technology for seamle
   | Chain           | Pools          | Type  | X  | Reward              | New Reward      |
   |-----------------|----------------|-------|----|---------------------|-----------------|
   | Base            | All Pools      | -     | -  | ~~**371,678,806**~~ | **315,000,000** |
-  | X Layer         | OKB - DACKIE   | 0.25% | 2x | 0                   | 15,000,000      |
-  | X Layer         | DACKIE - QUACK | 1%    | 1x | 0                   | 7,500,000       |
-  | X Layer         | OKB - USDT     | 0.25% | 1x | 0                   | 7,500,000       |
-  | X Layer         | OKB - USDC     | 0.25% | 1x | 0                   | 7,500,000       |
-  | **Total**       |                |       |    |                     | **35,000,000**      |**35,000,000**
-  | **Grant Total** |                |       |    | ~~**371,678,806**~~     | **350,000,000** |
+  | X Layer         | OKB - DACKIE   | 0.25% | 2x | 0                   | 11,666,667      |
+  | X Layer         | DACKIE - QUACK | 1%    | 1x | 0                   | 5,833,333       |
+  | X Layer         | OKB - USDT     | 0.25% | 1x | 0                   | 5,833,333       |
+  | X Layer         | ETH - OKB      | 0.25% | 1x | 0                   | 5,833,333       |
+  | X Layer         | OKB - USDC     | 0.25% | 1x | 0                   | 5,833,333       |
+  | **Total**       |                |       |    |                     | **35,000,000**  |**35,000,000**
+  | **Grant Total** |                |       |    | ~~**371,678,806**~~ | **350,000,000** |
 
 * **Bridging Technology:** QUACK tokens will be bridged to/from X Layer using Layer Zero technology.
 
