@@ -1,10 +1,10 @@
-# [DSP1.1] Proposal for launching Yield Farming X Layer
+# [DSP1.1] Proposal for launching Yield Farming on X Layer
 
 [← Home](../README.md)
 
-```shell
+```
 Proposal ID: DSP1.1  
-End Date: 2024/08/09
+End Date: 2024/08/09 13h11 UTC 
 Proposer: Dackie Team
 ```
 
@@ -16,40 +16,38 @@ Proposer: Dackie Team
 
 ## Summary:
 
-We propose launching a **Yield Farming program with QUACK token rewards on X Layer chains. This initiative aims to
-attract more liquidity to X Layer**, leveraging Layer Zero technology for seamless bridging of QUACK tokens.
+We propose launching Yield Farming program with QUACK token rewards on X Layer chains. This initiative aims to attract more liquidity to X Layer
 
 ## Objectives and Benefits:
 
-* **Increased Liquidity:** Attract more liquidity providers to X Layer chain, enhancing trading volume and ecosystem
-  robustness. Foster the growth of the DackieSwap ecosystem on X Layer chains.
+* **Increased Liquidity:** Attract more liquidity providers to X Layer chain, enhancing trading volume and ecosystem robustness. Foster the growth of the DackieSwap ecosystem on X Layer chains.
 * **Community Growth:** Engage the X Layer community in the DackieSwap ecosystem.
 
 ## Yield Farming Structure:
 
 * **Reward Token:** QUACK tokens will be used as rewards for yield farming.
 * **Reward Emission:**
-    * Following QUACK Tokenomics
+  Following QUACK Tokenomics
   ```shell
   QUACK Esmission Q3 2024: 350,000,000 per month
   ```
-  > Current total higher than tokenomics because QueenDACKIE pools launched this month, will be adjusted again end of
-  August)
+  > Current total higher than tokenomics because QueenDACKIE pools launched this month, will be adjusted again end of August)
 
-* **Farming Pools (Reward p. month):**
+* **Farming Pools (Emission p. month):**
 
-  | Chain           | Pools          | Type  | X  | Reward              | New Reward      |
-  |-----------------|----------------|-------|----|---------------------|-----------------|
-  | Base            | All Pools      | -     | -  | ~~**371,678,806**~~ | **315,000,000** |
-  | X Layer         | OKB - DACKIE   | 0.25% | 2x | 0                   | 11,666,667      |
-  | X Layer         | DACKIE - QUACK | 1%    | 1x | 0                   | 5,833,333       |
-  | X Layer         | OKB - USDT     | 0.25% | 1x | 0                   | 5,833,333       |
-  | X Layer         | ETH - OKB      | 0.25% | 1x | 0                   | 5,833,333       |
-  | X Layer         | OKB - USDC     | 0.25% | 1x | 0                   | 5,833,333       |
-  | **Total**       |                |       |    |                     | **35,000,000**  |**35,000,000**
-  | **Grant Total** |                |       |    | ~~**371,678,806**~~ | **350,000,000** |
+  | Chain        | Pools          | Type        | Current Emission    | New Emission    |
+  |--------------|----------------|-------------|---------------------|-----------------|
+  | Base         | All Pools      | -           | ~~**371,678,806**~~ | **315,000,000** |
+  | X Layer      | OKB - DACKIE   | 0.25%       | 0                   | 10,000,000      |
+  | X Layer      | DACKIE - QUACK | 1%          | 0                   | 5,000,000       |
+  | X Layer      | OKB - USDT     | 0.25%       | 0                   | 5,000,000       |
+  | X Layer      | ETH - OKB      | 0.25%       | 0                   | 5,000,000       |
+  | X Layer      | OKB - USDC     | 0.25%       | 0                   | 5,000,000       |
+  | X Layer      | DackieOnXLayer | NFT Staking | 0                   | 5,000,000       |
+  | **Total**    |                |             |                     | **35,000,000**  |
+  | **Gr.Total** |                |             | ~~**371,678,806**~~ | **350,000,000** |
 
-* **Bridging Technology:** QUACK tokens will be bridged to/from X Layer using Layer Zero technology.
+* **Bridging Technology:** QUACK tokens will be bridged to/from X Layer and Base using Layer Zero technology.
 
 ## Implementation Plan:
 
@@ -64,9 +62,7 @@ attract more liquidity to X Layer**, leveraging Layer Zero technology for seamle
 
 ## Conclusion:
 
-Launching the Yield Farming program with QUACK token rewards on X Layer chains will significantly enhance liquidity and
-engage the X Layer community in the DackieSwap ecosystem. Your support and participation are essential for the success
-of this initiative.
+Launching the Yield Farming program with QUACK token rewards on X Layer chains will significantly enhance liquidity and engage the X Layer community in the DackieSwap ecosystem. Your support and participation are essential for the success of this initiative.
 
 **For:** Approve the proposal.  
 **Against:** Reject the proposal.
@@ -75,5 +71,5 @@ of this initiative.
 We welcome all your feedback and look forward to your support in making this initiative a success.
 
 **Contact Information:**  
-For any questions or further discussion, please reach out to [Dackie Discord](https://discord.gg/dackieofficial),
+For any questions or further discussion, please reach out to [Dackie Discord](https://discord.com/invite/dackieofficial),
 Category: **#dsp-discussion**. Topic: **DSP1.1**

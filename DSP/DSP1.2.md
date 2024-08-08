@@ -1,4 +1,4 @@
-# [DSP1.2] Proposal for QUACK token emission rate on Base from August
+# [DSP1.2] Proposal for QUACK token emission rate on Base from August (including DW Ambassador Program reward)
 
 [← Home](../README.md)
 
@@ -17,15 +17,12 @@ Proposer: Dackie Team
 ## Summary:
 
 We propose to update a **QUACK token emission rate** on Base from August.
-A portion of QUACK is dedicated to our **Dackie Warriors Ambassador Program**, which helps to represent Dackie and
-promote it within our community.
+A portion of QUACK is dedicated to our **Dackie Warriors Ambassador Program**, which helps to represent Dackie and promote it within our community.
 
 ## Objectives and Benefits:
 
-* Increased Liquidity for DACKIE - ETH and QUACK - DACKIE pairs: Attract more liquidity for these pairs, enhance trading
-  volume.
-* Increased Incentive for Dackie Warriors Ambassador Program: Dackie Warriors help to build the face of Dackie and
-  expose it to community.
+* Increased Liquidity for DACKIE - ETH and QUACK - DACKIE pairs: Attract more liquidity for these pairs, enhance trading volume.
+* Increased Incentive for Dackie Warriors Ambassador Program: Dackie Warriors help to build the face of Dackie and expose it to community.
 
 ## Quack Emission Structure:
 
@@ -44,17 +41,17 @@ promote it within our community.
 
 * **Proposed New Breakdown on Base (Reward  p. month):**
 
-  | Chain     | Pools                                  | Type                | X    | Reward |
-    |-----------|----------------------------------------|---------------------|------|-----------------|
-  | Base      | DACKIE - ETH LP                        | Staking             | 2x   | 47,115,385      |
-  | Base      | QUACK - DACKIE LP                      | Staking             | 2x   | 18,846,154      |
-  | Base      | KingDACKIE                             | NFT Staking Normal  | 0.5x | 9,423,077       |
-  | Base      | KingDACKIE                             | NFT Staking Premium | 3x   | 56,538,462      |
-  | Base      | QueenDACKIE                            | NFT Staking Normal  | 1x   | 18,846,154      |
-  | Base      | QueenDACKIE                            | NFT Staking Premium | 5x   | 94,230,769      |
-  | Base      | **Dackie Warriors Ambassador Program** | Program             | -    | 35,000,000      |
-  |           | Reserve for new pools/chains/events    | -                   | -    | 35,000,000      |
-  | **Total** |                                        |                     |      | **315,000,000** |
+  | Chain     | Pools                                  | Type                | Reward          |
+  |-----------|----------------------------------------|---------------------|-----------------|
+  | Base      | DACKIE - ETH LP                        | Staking             | 47,115,385      |
+  | Base      | QUACK - DACKIE LP                      | Staking             | 18,846,154      |
+  | Base      | KingDACKIE                             | NFT Staking Normal  | 9,423,077       |
+  | Base      | KingDACKIE                             | NFT Staking Premium | 56,538,462      |
+  | Base      | QueenDACKIE                            | NFT Staking Normal  | 18,846,154      |
+  | Base      | QueenDACKIE                            | NFT Staking Premium | 94,230,769      |
+  | Base      | **Dackie Warriors Ambassador Program** | Program             | 35,000,000      |
+  |           | Reserve for new pools/chains/events    | -                   | 35,000,000      |
+  | **Total** |                                        |                     | **315,000,000** |
 
 ## Implementation Plan:
 
@@ -69,9 +66,7 @@ promote it within our community.
 
 ## Conclusion:
 
-The proposed update to the QUACK token emission rate on Base, starting in August, will enhance liquidity and incentivize
-community engagement. By allocating a portion of QUACK to the **Dackie Warriors Ambassador Program**, we aim to promote
-Dackie and strengthen our community presence.
+The proposed update to the QUACK token emission rate on Base, starting in August, will enhance liquidity and incentivize community engagement. By allocating a portion of QUACK to the **Dackie Warriors Ambassador Program**, we aim to promote Dackie and strengthen our community presence.
 
 **For:** Approve the proposal.  
 **Against:** Reject the proposal.
@@ -80,5 +75,5 @@ Dackie and strengthen our community presence.
 We welcome all your feedback and look forward to your support in making this initiative a success.
 
 **Contact Information:**  
-For any questions or further discussion, please reach out to [Dackie Discord](https://discord.gg/dackieofficial),
+For any questions or further discussion, please reach out to [Dackie Discord](https://discord.com/invite/dackieofficial),
 Category: **#dsp-discussion**. Topic: **DSP1.2**
