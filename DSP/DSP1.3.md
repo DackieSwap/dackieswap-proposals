@@ -1,4 +1,4 @@
-# Proposal for Onboarding Viction and enable Yield Farming
+# Proposal for launching new DACKIE pools
 
 ```
 Proposal ID: DSP1.3
@@ -7,58 +7,50 @@ Proposer: Dackie Team
 ```
 
 ## Summary:
-This proposal seeks to onboard DackieSwap to the Viction platform and introduce Yield Farming capabilities. This strategic initiative is intended to boost trading activity and liquidity on Viction while providing valuable incentives for the community and engaging potential partners.
+This proposal outlines the introduction of incentive programs for four new liquidity pools on the DackieSwap: 
+* Base:
+    ```
+    DACKIE-ETH V3 0.25% 
+    DACKIE-USDC V3 0.25%
+    ```
+* Optimism
+    ```
+    DACKIE-OP V3 0.25%
+    ```
+* Arbitrum
+    ```
+    DACKIE-ARB V3 0.25%
+    ``` 
+These pools are designed to enhance liquidity and trading activity for DACKIE token on DackieSwap, benefiting both users and the broader DackieSwap ecosystem.
 
 ## Objectives and Benefits:
-1. **Increase Volume and Liquidity for DackieSwap on Viction:**
+The primary objective of this proposal is to incentivize liquidity providers to supply assets to the specified DACKIE pairs with ETH, USDC, OP, and ARB. By doing so, we aim to achieve the following benefits:
 
-2. **Engage with Viction Community:**
-   * Foster a vibrant community by integrating Viction users into the DackieSwap ecosystem, enabling mutual growth ans sharing community.
-   * Host events, and other interactive engagements to educate and enthuse both communities about potential benefits.
+* Increase Liquidity: Enhance the liquidity in these trading pairs to reduce slippage for traders and improve overall market efficiency.
+* Attract Users: Provide competitive returns to liquidity providers, commonly known as yield farming, to attract more users to the Dackie platform.
+* Strengthen Token Ecosystem: Promote the utility and importance of the DACKIE token through active trading and use in different pools.
+* Community Growth: Utilize the incentives as a means to engage and expand our community base, enhancing user retention and new user acquisition.
 
-3. **Partner with Potential Projects on Viction:**
-   * Establish meaningful collaborations with promising projects on Viction, expanding the network and reach of DackieSwap.
-   *Leverage these partnerships to explore new initiatives, improving the value proposition for all stakeholders involved.
+## Detail Proposal:
+The detail incentive structure is designed as below table:
 
-## Yield Farming Structure:
-- **Rewards Mechanism:**
-  
-  Offer attractive APRs through QUACK emissions for liquidity provider.
+| Chain        | Pools         | Type       | Current Emission | New Emission   |
+|--------------|---------------|------------|------------------|----------------|
+| Base         | DACKIE -ETH   | V3 - 0.25% | 0                | 1,259,516      |
+| Base         | DACKIE - USDC | V3 - 0.25% | 0                | 1,259,516      |
+| Base         | Other pools   | -          | ~~24,156,110~~   | 21,637,078     |
+| Optimism     | DACKIE - OP   | V3 - 0.25% | 0                | 232,623        |
+| Optimism     | Other pools   | -          | ~~2,093,606~~    | 1,860,983      |
+| Arbitrum     | DACKIE - ARB  | V3 - 0.25% | 0                | 227,566        |
+| Arbitrum     | Other pools   | -          | ~~2,093,606~~    | 1,866,040      |
+| **Total**    |               |            | **28,343,321**   | **28,343,321** |
 
-- **Rewards Structure:**
-  
-  Following QUACK tokenomics:
-  ```
-  - Q3 2024: 350,000,000/month
-  ```
-
-  | Chain        | Pools        | Type  | Current Emission | New Emission   |
-  |--------------|--------------|-------|------------------|----------------|
-  | Base         | -            | -     | ~~315,000,000~~  | 290,000,000    |
-  | X Layer      | -            | -     | 35,000,000       | 35,000,000     |
-  | Viction      | VIC/USDT     | 0.25% | 0                | 5,000,000      |
-  | Viction      | VIC/DACKIE   | 0.25% | 0                | 10,000,000     |
-  | Viction      | DACKIE/QUACK | 1%    | 0                | 5,000,000      |
-  | Viction      | DACKIE/C98   | 0.25% | 0                | 5,000,000      |
-  | **Total**    |              |       |                  | **25,000,000** |
-  | **Gr.Total** |              |       |                  | 350,000,000    |
-    
 
 ## Implementation Plan:
-**Step 1: Onboarding and Setup (2 days after proposal passed)**
-  - Deploy DackieSwap contracts on Viction.
-  - Initial marketing push to generate buzz and interest among the Viction community.
-
-**Step 2: Launch and Monitoring (1 week after proposal passed)**
-  - Official onboarding Vittion and enable yield farming pools.
-  - Continuous monitoring and optimization of liquidity pools and reward rates to ensure optimal performance.
-
-**Step 3: Community Engagement and Partnerships (near future)**
-  - Initiate community-engaged events and educational content to grow participation.
-  - Reach out to potential partner projects for joint marketing and value-added services.
+Setup new DACKIE pools in Base, Optimism, Arbitrum (1 day after proposal passed)
 
 ## Conclusion:
-Onboarding Viction and introducing yield farming are strategic decisions intended to foster growth for both the Viction and DackieSwap communities. Through this partnership, we can significantly improve liquidity, enhance community engagement, and foster groundbreaking collaborations. We are eager to hear your thoughts and confident in the positive impact this initiative will bring.
+This proposal aims to significantly strengthen the DackieSwap ecosystem by launching new incentive-driven liquidity pools. It supports our strategic goals of increasing liquidity, expanding user engagement, and solidifying the DACKIE token’s importance and utility. We believe these steps will lead to a more dynamic and robust trading environment on the DackieSwap.
 
 ---
 
