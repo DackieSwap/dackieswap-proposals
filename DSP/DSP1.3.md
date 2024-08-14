@@ -11,7 +11,7 @@ This proposal outlines the introduction of incentive programs for four new liqui
 * Base:
     ```
     DACKIE-ETH V3 0.25% 
-    DACKIE-USDC V3 0.25%
+    DACKIE-USDbC V3 0.05%
     ```
 * Optimism
     ```
@@ -34,16 +34,16 @@ The primary objective of this proposal is to incentivize liquidity providers to 
 ## Detail Proposal:
 The detail incentive structure is designed as below table:
 
-| Chain        | Pools         | Type       | Current Emission | New Emission   |
-|--------------|---------------|------------|------------------|----------------|
-| Base         | DACKIE -ETH   | V3 - 0.25% | 0                | 1,259,516      |
-| Base         | DACKIE - USDC | V3 - 0.25% | 0                | 1,259,516      |
-| Base         | Other pools   | -          | ~~24,156,110~~   | 21,637,078     |
-| Optimism     | DACKIE - OP   | V3 - 0.25% | 0                | 232,623        |
-| Optimism     | Other pools   | -          | ~~2,093,606~~    | 1,860,983      |
-| Arbitrum     | DACKIE - ARB  | V3 - 0.25% | 0                | 227,566        |
-| Arbitrum     | Other pools   | -          | ~~2,093,606~~    | 1,866,040      |
-| **Total**    |               |            | **28,343,321**   | **28,343,321** |
+| Chain        | Pools          | Type       | Current Emission | New Emission   |
+|--------------|----------------|------------|------------------|----------------|
+| Base         | DACKIE -ETH    | V3 - 0.25% | 0                | 1,259,516      |
+| Base         | DACKIE - USDbC | V3 - 0.05% | 0                | 1,259,516      |
+| Base         | Other pools    | -          | ~~24,156,110~~   | 21,637,078     |
+| Optimism     | DACKIE - OP    | V3 - 0.25% | 0                | 232,623        |
+| Optimism     | Other pools    | -          | ~~2,093,606~~    | 1,860,983      |
+| Arbitrum     | DACKIE - ARB   | V3 - 0.25% | 0                | 227,566        |
+| Arbitrum     | Other pools    | -          | ~~2,093,606~~    | 1,866,040      |
+| **Total**    |                |            | **28,343,321**   | **28,343,321** |
 
 
 ## Implementation Plan:
