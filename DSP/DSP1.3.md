@@ -36,7 +36,7 @@ The detail incentive structure is designed as below table:
 
 | Chain        | Pools          | Type       | Current Emission | New Emission   |
 |--------------|----------------|------------|------------------|----------------|
-| Base         | DACKIE -ETH    | V3 - 0.25% | 0                | 1,259,516      |
+| Base         | DACKIE - ETH   | V3 - 0.25% | 0                | 1,259,516      |
 | Base         | DACKIE - USDbC | V3 - 0.05% | 0                | 1,259,516      |
 | Base         | Other pools    | -          | ~~24,156,110~~   | 21,637,078     |
 | Optimism     | DACKIE - OP    | V3 - 0.25% | 0                | 232,623        |
