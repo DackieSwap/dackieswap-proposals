@@ -10,7 +10,8 @@
 | [DSP1.3](DSP/DSP1.3.md) | Proposal for launching new DACKIE pools                    | Dackie Team | `Passed` | [LINK](https://snapshot.org/#/dackie.eth/proposal/0x73437fde3b78a5f6fc2f8029e8086656e5f42a89d2f8a910009ff0b20075257f) | 2024/08/12 - 2024/08/14 |
 | [DSP1.4](DSP/DSP1.4.md) | Proposal for onboarding and enable Yield Farming on Linea  | Dackie Team | `Passed` | [LINK](https://snapshot.org/#/dackie.eth/proposal/0xe8a320bba4c93e318f20630d38bbcd7857004b3437784ac2f905cd73fa7779a5) | 2024/08/18 - 2024/08/22 |
 | [DSP1.5](DSP/DSP1.5.md) | Proposal for launching Dackie USD (dckUSD) pools on Base  | Dackie Team | `Passed` | [LINK](https://snapshot.org/#/dackie.eth/proposal/0x9e9e318ddc09edc4f463b9f810b8d5aac3f50ebdcd5a95c0766416bf63a7c572) | 2024/08/25 - 2024/08/27 |
-| [DSP1.6](DSP/DSP1.6.md) | Proposal for optimizing Yield Farming on DackieSwap across chains in September  | Dackie Team | `Voting` | [LINK](https://snapshot.org/#/dackie.eth/proposal/0x31611310a523f7056d16b97522920b2b92394a836f8755f26ff1002b5d457d39) | 2024/09/01 - 2024/09/03 |
+| [DSP1.6](DSP/DSP1.6.md) | Proposal for optimizing Yield Farming on DackieSwap across chains in September  | Dackie Team | `Passed` | [LINK](https://snapshot.org/#/dackie.eth/proposal/0x31611310a523f7056d16b97522920b2b92394a836f8755f26ff1002b5d457d39) | 2024/09/01 - 2024/09/03 |
+| [DSP1.7](DSP/DSP1.7.md) | Proposal to enable Yield Farming QUACK token on Blast, Mode and inEVM  | Dackie Team | `Voting` | [LINK](https://snapshot.org/#/dackie.eth/proposal/0xccec187020d2bab8a2fb7460d993713154ab44ef594e0d55a6d46c4ecd5373a2) | 2024/09/03 - 2024/09/05 |
 
 ## Template
 
