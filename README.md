@@ -15,6 +15,6 @@
 | [DSP1.8](DSP/DSP1.8.md)   | Proposal for onboarding and enabling Yield Farming on Viction                  | Dackie Team | `Passed` | [LINK](https://snapshot.org/#/dackie.eth/proposal/0x774c96b7b87ab578651e28336a2394fd4197b4807a77ec12f9df62a196e0ef9a) | 2024/09/09 - 2024/09/12 |
 | [DSP1.9](DSP/DSP1.9.md)   | Proposal for onboarding on Unichain                  | Dackie Team | `Passed` | [LINK](https://snapshot.box/#/s:dackie.eth/proposal/0x8d56c8215d6567a1e6e3fc142bd163a34fc0467acb2552aaa72ca881174e0160) | 2024/10/16 - 2024/10/19 |
 | [DSP1.10](DSP/DSP1.10.md) | Proposal for onboarding on World Chain                  | Dackie Team | `Passed` | [LINK](https://snapshot.box/#/s:dackie.eth/proposal/0xa01519c75367352cb093f78880e28df91400929593d6ce6a5694c17d4f393982) | 2024/10/16 - 2024/10/19 |
-| [DSP1.11](DSP/DSP1.11.md) | Proposal to increase APR of DACKIE Staking                  | Dackie Team | `Voting` | [LINK](https://snapshot.org/#/dackie.eth/proposal/0xb52cfe82dd95ab58eb5b8e86c5eaf26f9ae649fe33baf0f4d9c4dee53e024218) | 2024/11/19 - 2024/11/22 |
+| [DSP1.11](DSP/DSP1.11.md) | Proposal to increase APR of DACKIE Staking                  | Dackie Team | `Passed` | [LINK](https://snapshot.org/#/dackie.eth/proposal/0xb52cfe82dd95ab58eb5b8e86c5eaf26f9ae649fe33baf0f4d9c4dee53e024218) | 2024/11/19 - 2024/11/22 |
 
 
